@@ -9,6 +9,11 @@ Then active the .sh to auto extract related data to get the favorite bike statio
 
 All of these are using bash command to complete.
 
+Pre-requisite：
+
+Create an account on GitHub if you don't already have one: https://github.com/
+
+If the laptop you will work on is running Windows, download and install Git Bash: https://git-scm.com/downloads
 
 The sequence is :(from the bottom .pdf to the top)
 
