@@ -10,7 +10,7 @@ Then active the .sh to auto extract related data to get the favorite bike statio
 All of these are using bash command to complete.
 
 
-The sequence is :
+The sequence is :(from the bottom .pdf to the top)
 
 1.	"Hello, world" of Bash shell
 2.	Navigating the filesystem
