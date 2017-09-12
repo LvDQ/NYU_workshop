@@ -21,6 +21,7 @@ The sequence is :
 7.	Putting it all together
 
 
+
 1.	Intro to git: create a repository
 2.	Git basic workflow
 
